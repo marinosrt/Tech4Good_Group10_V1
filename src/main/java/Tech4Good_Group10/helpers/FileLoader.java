@@ -17,7 +17,6 @@ import java.util.List;
 public class FileLoader implements CommandLineRunner {
 
     private BusinessRepository repository;
-
     @Autowired
     public FileLoader(BusinessRepository repository) {
         this.repository = repository;

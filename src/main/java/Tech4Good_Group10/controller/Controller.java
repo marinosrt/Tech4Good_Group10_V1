@@ -13,7 +13,7 @@ import java.util.List;
 @Tag(name = "Model Controller")
 public class Controller {
     private final Service service;
-
+  
     @GetMapping("/getBusiness")
     public void listBussiness(@RequestBody List<String> types) {
         service.getBusinessByType(types);

@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f66f3066-27ed-436f-9b3b-d592ff30b893" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jsons/tabla_resumen.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/model/TypeBusiness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/service/ServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/service/ServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Tech4Good_Group10/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tech4Good_Group10/controller/Controller.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +46,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\formacio\Desktop\Tech4Good_Group10_V1\src\main\resources\jsons" />
+      <recent name="C:\Users\formacio\Desktop\Tech4Good_Group10_V1\src\main\java\Tech4Good_Group10\config" />
       <recent name="C:\Users\formacio\Desktop\Tech4Good_Group10_V1\src\main\resources\json" />
     </key>
   </component>
@@ -76,16 +80,5 @@
       <updated>1687265636020</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Tech4Good_Group10/helpers/FileLoader.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

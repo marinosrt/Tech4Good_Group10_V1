@@ -84,11 +84,15 @@ public enum TypeBusiness {
     OPTICAS_FOTOGRAFIA("Òptiques i fotografia");
 
 
-    private String description;
-    TypeBusiness(String description) {
-        this.description = description;
+
+
+    private String name;
+
+    TypeBusiness(String name) {
+        this.name = name;
     }
-    public String getDescription() {
-        return description;
+
+    public String getName() {
+        return name;
     }
 }

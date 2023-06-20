@@ -16,6 +16,6 @@ public class Controller {
   
     @GetMapping("/getBusiness")
     public void listBusiness(@RequestBody List<String> types) {
-        System.out.println(service.getBusinessByType(types));
+        service.getBusinessByType(types);
     }
 }

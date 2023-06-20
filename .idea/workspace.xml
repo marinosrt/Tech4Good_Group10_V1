@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f66f3066-27ed-436f-9b3b-d592ff30b893" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/jsons/censo-abridged-1.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/Tech4GoodGroup10Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/Tech4GoodGroup10Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/controller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/helpers/FileLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/helpers/FileLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/model/Business.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/model/Business.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/service/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/service/AppService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/service/ServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/service/ServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/json/2019_censcomercialbcn_detall.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/jsons/2019_censcomercialbcn_detall.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Tech4Good_Group10/Tech4GoodGroup10Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tech4Good_Group10/Tech4GoodGroup10Application.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Tech4Good_Group10/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tech4Good_Group10/controller/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Tech4Good_Group10/model/Business.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tech4Good_Group10/model/Business.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Tech4Good_Group10/service/Service.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Tech4Good_Group10/service/ServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tech4Good_Group10/service/ServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/json/2019_censcomercialbcn_detall.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,5 +76,16 @@
       <updated>1687265636020</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Tech4Good_Group10/helpers/FileLoader.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

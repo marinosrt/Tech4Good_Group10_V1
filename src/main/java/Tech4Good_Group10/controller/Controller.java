@@ -1,4 +1,5 @@
 package Tech4Good_Group10.controller;
+import Tech4Good_Group10.model.Business;
 import Tech4Good_Group10.service.AppService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.AllArgsConstructor;
@@ -15,7 +16,7 @@ public class Controller {
     private final AppService service;
   
     @GetMapping("/getBusiness")
-    public void listBusiness(@RequestBody List<String> types) {
-        System.out.println(service.getBusinessByType(types));
+    public List<Business> listBusiness(@RequestBody List<String> types) {
+        return service.getBusinessByType(types);
     }
 }

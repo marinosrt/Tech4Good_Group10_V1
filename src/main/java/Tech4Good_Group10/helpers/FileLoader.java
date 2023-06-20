@@ -38,7 +38,7 @@ public class FileLoader implements CommandLineRunner {
             }
 
         } catch (IOException e) {
-
+            e.printStackTrace();
         }
     }
 }

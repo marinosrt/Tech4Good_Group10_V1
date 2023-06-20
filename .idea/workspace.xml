@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f66f3066-27ed-436f-9b3b-d592ff30b893" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+=======
+>>>>>>> 87ea5da2fe52ec5dd2ce5beae677a1846431c45a
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tech4Good_Group10/controller/Controller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Tech4Good_Group10/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tech4Good_Group10/controller/Controller.class" afterDir="false" />
@@ -82,5 +85,16 @@
       <updated>1687265636020</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Tech4Good_Group10/helpers/FileLoader.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

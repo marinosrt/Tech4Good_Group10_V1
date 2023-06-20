@@ -1,5 +1,5 @@
 package Tech4Good_Group10.controller;
-import Tech4Good_Group10.service.Service;
+import Tech4Good_Group10.service.AppService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -12,10 +12,10 @@ import java.util.List;
 @AllArgsConstructor
 @Tag(name = "Model Controller")
 public class Controller {
-    private final Service service;
+    private final AppService service;
   
     @GetMapping("/getBusiness")
-    public void listBussiness(@RequestBody List<String> types) {
-        service.getBusinessByType(types);
+    public void listBusiness(@RequestBody List<String> types) {
+        System.out.println(service.getBusinessByType(types));
     }
 }

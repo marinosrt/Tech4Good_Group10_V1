@@ -25,7 +25,7 @@ public class FileLoader implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        String pathFile = "src/main/resources/jsons/2019_censcomercialbcn_detall.json";
+        String pathFile = "src/main/resources/jsons/censo-abridged-1.json";
         ObjectMapper objectMapper = new ObjectMapper();
 
         try {
@@ -37,8 +37,10 @@ public class FileLoader implements CommandLineRunner {
                 repository.save(business);
             }
 
-        } catch (IOException e) {
 
+
+        } catch (IOException e) {
+            e.printStackTrace();
         }
     }
 }
